@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.general{
+    display: flex;
+    justify-content: center;
+    height: 100vh; 
+    align-items: center;
+    background-color: #F3F2F0;
+
+}
+
+.cuadro{
+    width: 510px;
+    height: 190px; 
+    display: flex;
+    flex-direction: column; 
+    background-color: #EAE6E3;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 21px;
+    padding: 25px;
+}
